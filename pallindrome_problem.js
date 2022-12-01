@@ -5,8 +5,8 @@ for(let i=str.length-1;i>=0;i--){
 bag+=str[i];
 }
 if(bag==str){
-console.log("No pallindrome");
+console.log("Pallindome");
 }
  else
-    { console.log("Pallindome")}
+    { console.log(" No Pallindome")}
 }

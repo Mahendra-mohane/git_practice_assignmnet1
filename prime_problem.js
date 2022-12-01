@@ -6,7 +6,7 @@ if(num%i==0){
 count++;
    }
  }
-if (counter==2){
+if (count==2){
   console.log("prime number")
 }
  else{console.log("Not Prime)
